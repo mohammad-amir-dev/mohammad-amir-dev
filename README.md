@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amir</h1>
 
-<h3 align="center">Java Full Stack Developer</h3>
+<h3 align="center">Software  Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech Graduate
-- ☕ Java Developer
+- ☕ Java | PHP| Laravel Developer
 - 🌱 Learning Spring Boot & Microservices
 - 💻 Solved 250+ LeetCode Problems
 - 🚀 Building Full Stack Projects
