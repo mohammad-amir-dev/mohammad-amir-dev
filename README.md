@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech Graduate
-- ☕ Java | PHP| Laravel Developer
+- ☕ PHP| Laravel Developer
 - 🌱 Learning Spring Boot & Microservices
 - 💻 Solved 250+ LeetCode Problems
 - 🚀 Building Full Stack Projects
@@ -15,6 +15,8 @@
 - ## 🛠️ Tech Stack
 
 ### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
